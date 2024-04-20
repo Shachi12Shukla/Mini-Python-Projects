@@ -1,3 +1,4 @@
+#Using Llava model to read image
 import ollama
 
 # Open the image file in binary mode
