@@ -1,4 +1,4 @@
-
+# A short python code to implement a chatbot - using "Mistral" model . Question already provided to the bot .
 import langchain
 import ollama
 
